@@ -1,0 +1,11 @@
+p {
+  background-color: red;
+}
+
+.animal1 {
+  text-align: center;
+}
+
+.animal1 p {
+  text-align: right;
+}
